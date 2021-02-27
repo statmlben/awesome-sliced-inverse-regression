@@ -17,3 +17,5 @@
 
 - ### Cook, R. D. (2009). Regression graphics: Ideas for studying regressions through graphics (Vol. 482). John Wiley & Sons. [ [link](https://books.google.com/books?hl=en&lr=&id=4Jh5ChKcN3cC&oi=fnd&pg=PP2&dq=regression+graphics&ots=8GUlYQ8Lq_&sig=CurcMiwNXsJVacrdTMP1VXEbEC8#v=onepage&q=regression%20graphics&f=false) ]
     - textbook
+
+## Software
