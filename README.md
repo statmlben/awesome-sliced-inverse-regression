@@ -19,4 +19,3 @@
     - textbook
 
 ## Software
-- gfdgd
