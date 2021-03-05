@@ -18,4 +18,8 @@
 - Cook, R. D. (2009). Regression graphics: Ideas for studying regressions through graphics (Vol. 482). John Wiley & Sons. [ [link](https://books.google.com/books?hl=en&lr=&id=4Jh5ChKcN3cC&oi=fnd&pg=PP2&dq=regression+graphics&ots=8GUlYQ8Lq_&sig=CurcMiwNXsJVacrdTMP1VXEbEC8#v=onepage&q=regression%20graphics&f=false) ]
     - textbook
 
+- Yin, X., & Cook, R. D. (2002). Dimension reduction for the conditional kth moment in regression. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 64(2), 159-175. [ [link](https://rss.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-9868.00330?casa_token=2a_U-Mf5e9gAAAAA:lZ6XLFtm_WXmFfdWHfiCPtz-2m0InFa6J3ER0iRL8Z6c62400m4roPq5ut2R0BmdhD2ssKXTtRHqam4) ]
+    - weak assumption for sufficient dimension reduction: independent with respect to mean.
+
+
 ## Software
