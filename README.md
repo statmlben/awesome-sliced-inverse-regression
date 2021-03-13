@@ -21,6 +21,5 @@
 - Yin, X., & Cook, R. D. (2002). Dimension reduction for the conditional kth moment in regression. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 64(2), 159-175. [ [link](https://rss.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-9868.00330?casa_token=2a_U-Mf5e9gAAAAA:lZ6XLFtm_WXmFfdWHfiCPtz-2m0InFa6J3ER0iRL8Z6c62400m4roPq5ut2R0BmdhD2ssKXTtRHqam4) ]
     - weak assumption for sufficient dimension reduction: independent with respect to mean.
 
-
 ## Software
 - [sliced](https://github.com/joshloyal/sliced)
