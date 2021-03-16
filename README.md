@@ -22,4 +22,4 @@
     - weak assumption for sufficient dimension reduction: independent with respect to mean.
 
 ## Software
-- [sliced](https://github.com/joshloyal/sliced)
+- [sliced in Python](https://github.com/joshloyal/sliced)
